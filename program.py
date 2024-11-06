@@ -6,7 +6,7 @@ sub=a-b
 mul=a*b
 div=a/b
 mod=a%b 
-print("Addition:",add)
+print("Addition:",addition)
 print("Subtraction:",sub)
 print("modulas",mod)                                                                                                                                                                    
 print("modulas",mod)                                                                                                                                                                    
